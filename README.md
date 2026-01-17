@@ -1,4 +1,6 @@
-# moneywise-finance
+#![GitHub](https://img.shields.io/github/license/9527es/moneywise-finance)
+![GitHub last commit](https://img.shields.io/github/last-commit/9527es/moneywise-finance)
+![GitHub stars](https://img.shields.io/github/stars/9527es/moneywise-finance) moneywise-finance
 个人财务管理系统
 # 💰 MoneyWise - 个人财务管理系统
 
